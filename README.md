@@ -1,0 +1,2 @@
+# copy-to-clipboard
+Ez
