@@ -1,5 +1,5 @@
-# Source Discord Bot Python
-open source code for your bot
-made by aabbaaii13 + ai
-(15% is made by ai and 85% is aabbaaii13)
-https://disocrd.gg/hnq9AGVMwq join disocrd server
+# Basic Python For Your Discord Bot
+Made By Aabbaaii13 + AI Aka ChatGpt
+(By The Way This Code Is 16% AI)
+https://disocrd.gg/hnq9AGVMwq
+join our disocrd server now
